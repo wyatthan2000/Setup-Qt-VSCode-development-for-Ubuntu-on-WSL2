@@ -1,5 +1,3 @@
 # Dev-Tutorial
 
 This is just a repo to document my process of learning whatever needed to be an independent developer
-
-Setup Qt-VScode development environment for WSL2 Ubuntu
