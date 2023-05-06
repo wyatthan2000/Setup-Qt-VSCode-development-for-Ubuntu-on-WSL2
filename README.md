@@ -1,4 +1,6 @@
-# **1 Install WSL**
+# This is a project to demo how to setup the environment for remotely developing Qt application in Ubuntu WSL2 using VScode on windows
+
+## **1 Install WSL**
 
 Please refer to below link for details:
 
@@ -38,7 +40,7 @@ Once WSL is installed, you will see convenient entries in your windows start men
 
 ![image](https://user-images.githubusercontent.com/115331932/236579305-cdfca349-14d9-42ee-bf0d-ae2b5715109f.png)
 
-# **2 Install VScode for development on WSL**
+## **2 Install VScode for development on WSL**
 
 Please refer to below link for details:
 
@@ -61,7 +63,7 @@ Brief summary:
 
     3. Many other things I have no idea at this point...
 
-# 3 Enables Linux GUI applications
+## 3 Enables Linux GUI applications
 ###  This is one of the best update for WSL to enable users running Linux apps like other windows apps! By enabling this, we can edit .ui file in WSL2 distribution (e.g. Ubuntu) from VScode installed on windows
 
 Please refer to details from below link:
@@ -93,7 +95,7 @@ Most important components from my point of view:
  
 4. In addition, any app ( QtCreator/Google-Chrome/etc... ) installed on Ubuntu (or other Linux OS) can be launched from the terminal opened in VScode connected to WSL
 
-# 4. Install Qt on Ubuntu
+## 4. Install Qt on Ubuntu
 
 In progress
  
